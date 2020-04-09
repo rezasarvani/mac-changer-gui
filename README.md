@@ -4,9 +4,9 @@ Developed By: Reza Sarvani
 Join My Telegram Channel: @BitSecurityTeam
 
 Run The Script:
-sudo python3 Mac\ Changer\ V1.0.py
+sudo python3 Mac\ Changer\ V1.1.py
 
 Or Change The Name And Run:
-sudo python3 Mac-Changer-V1.0.py
+sudo python3 Mac-Changer-V1.1.py
 
 After Running The Script, Choose Your Interface, Enter Your New Mac Address And BOOOOM! Click On Change...
