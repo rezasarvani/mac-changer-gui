@@ -81,13 +81,13 @@ btn_n_mac = Button(root, text="Change...", font=('arial', 10, 'bold'),
                   highlightbackground=color,
                   fg="white",
                   command=lambda: change_mac())
-btn_n_mac.place(x=10, y=165)
+btn_n_mac.place(x=10, y=185)
 
 btn_r_mac = Button(root, text="Random Mac Changer", font=('arial', 10, 'bold'),
                   highlightbackground=color,
                   fg="white",
                   command=lambda: random_mac())
-btn_r_mac.place(x=110, y=165)
+btn_r_mac.place(x=110, y=185)
 
 dinf = StringVar(root)
 dinf.set("Choose...")
