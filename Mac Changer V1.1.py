@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 # Created By Reza Sarvani
-# Channel: @BitSecurityTeam
 
 from tkinter import *
 import subprocess
@@ -17,9 +16,6 @@ root.resizable(width=False, height=False)
 
 name_label = Label(root,  font=('arial', 10, 'bold'), text="Reza Sarvani", bg=color, fg="black")
 name_label.place(x=0, y=275)
-
-channel_label = Label(root,  font=('arial', 10, 'bold'), text="@BitSecurityTeam", bg=color, fg="black")
-channel_label.place(x=270, y=275)
 
 
 
